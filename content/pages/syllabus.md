@@ -30,11 +30,48 @@ Grading
 
 20% of the final grade is based on homework and class participation, 20% is based on the three lab reports, 60% is based on the mid-term and final exam. Students are encouraged to seek the help of the teaching assistants and other staff in performing the homeworks.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework and Class Participation | 20% |
-| Laboratory Reports | 20% |
-| Mid-Term and Final Exam | 60% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework and Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Reports
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-Term and Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Who Should Take This Course
 ---------------------------
